@@ -1,3 +1,3 @@
 # This is an Online Hotel Booking Site
 <br>
-Client / User can easiely look for thier convinient dates and book thier destination for amazing luxirious hotels mentione  d in the website.
+Client / User can easily look for their convinient dates and book their destination for amazing luxirious hotels mentioned in the website.
